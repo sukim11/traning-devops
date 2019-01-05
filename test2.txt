@@ -1,5 +1,3 @@
 aya tambah scrips di test 2
-
-
- dipindah ke baris 4
+ dan ini di baris ke dua
 
